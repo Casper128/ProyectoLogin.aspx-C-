@@ -1,0 +1,828 @@
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csprojAssemblyReference.cache
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\salaca202\source\repos\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\carlo\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csprojAssemblyReference.cache
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\salaca202\Downloads\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.AssemblyReference.cache
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\daoo1\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.AssemblyReference.cache
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\daoo1\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\Casper\Desktop\proyectoLogin\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\Casper\Desktop\proyectoLogin - copia\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\Casper\Desktop\proyectoLogin - final\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll.config
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\proyectoLogin.pdb
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.exe.config
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csc.rsp
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.exe.config
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\csi.rsp
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.AppContext.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Console.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.exe.config
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\vbc.rsp
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\WebGrease.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\Newtonsoft.Json.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Net.Http.Formatting.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Helpers.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Http.WebHost.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Mvc.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Optimization.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.Razor.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\Antlr3.Runtime.pdb
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.AssemblyReference.cache
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.csproj.CopyComplete
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.dll
+C:\Users\Casper\Downloads\proyectoLogin\proyectoLogin\proyectoLogin\obj\Debug\proyectoLogin.pdb
