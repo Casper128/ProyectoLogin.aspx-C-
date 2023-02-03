@@ -1,7 +1,7 @@
 # ProyectoLogin.aspx-C-
 
 Primero se debe ejecutar la base de datos y cambiar la cadenas de conexion para que funcione al abrir el proyecto en Visual Studio 
-
+Nota: si deseas crear la base de datos dentro de visual studio code debes de agregar manualmente la carpeta App_Data y ahora si las podras ejecutar
 Pasos
 1. Click derecho en el explorador de soluciones y en la carpeta AppData que se encuentra dentro del proyectoLogin
 2. Opcion agregar y Nuevo elemento
